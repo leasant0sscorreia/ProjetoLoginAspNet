@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using MySql.Data.MySqlClient;
-using ProjetoLogin.Models;
+using ProjetoLoginAspNet.Models;
 using System.Data;
 
 
-namespace ProjetoLogin.Views.Repositories
+namespace ProjetoLoginAspNet.Repositories
 {
     public class UsuarioRepositorio : IUsuarioRepositorio
     {

@@ -1,4 +1,4 @@
-﻿namespace ProjetoLogin.Models
+﻿namespace ProjetoLoginAspNet.Models
 {
     public class UsuarioModel
     {

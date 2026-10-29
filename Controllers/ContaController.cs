@@ -3,12 +3,11 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using ProjetoLogin.Models;
-using ProjetoLogin.Repositories;
-using ProjetoLogin.Views.Repositories;
+using ProjetoLoginAspNet.Models;
+using ProjetoLoginAspNet.Repositories;
 using System.Security.Claims;
 
-namespace ProjetoLogin.Controllers
+namespace ProjetoLoginAspNetAspnet.Controllers
 {
 
     public class ContaController : Controller

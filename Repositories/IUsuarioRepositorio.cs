@@ -1,6 +1,6 @@
-﻿using ProjetoLogin.Models;
+﻿using ProjetoLoginAspNet.Models;
 
-namespace ProjetoLogin.Views.Repositories
+namespace ProjetoLoginAspNet.Repositories
 {
 
     public interface IUsuarioRepositorio
